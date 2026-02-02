@@ -1,0 +1,9 @@
+{
+  "name": "ITAPEMA CONECTA",
+  "description": "Um aplicativo exclusivo para os moradores de Itapema, conectando a comunidade e permitindo cobrar melhorias diretamente da prefeitura.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
